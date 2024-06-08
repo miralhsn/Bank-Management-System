@@ -6,10 +6,15 @@ Features:
 The BMS implements the following use cases:
 
 1.Manage Customer Data: CRUD operations for customer records, ensuring data is up-to-date and easily accessible.
+
 2.Process Transactions: Handle deposits, withdrawals, transfers, and other financial transactions securely and efficiently.
+
 3.Submit Loan Application: Allow customers to apply for loans and manage loan processing.
+
 4.Generate Financial Report: Provide detailed financial reports and analytics to help in decision-making and monitoring.
+
 5.Provide Customer Support: Facilitate customer support through integrated support features and feedback mechanisms.
+
 6.Receive Account Notifications: Notify customers about account activities and updates via email or SMS.
 
 
